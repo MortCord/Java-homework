@@ -1,0 +1,5 @@
+Sony 100
+Apple 50
+Phone 300
+Bubble_gum 20
+Roshen 50
